@@ -1,0 +1,16 @@
+body {
+  background-image: url(../images/galaxy2.gif);
+}
+
+h1 {
+  color: #ffffff;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: 'Anton', sans-serif;
+  font-size: 80px;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
